@@ -2,5 +2,5 @@
 
 ## Demo Video
 
-[![Demo Video](https://img.youtube.com/vi/IulA34Cir4M/maxresdefault.jpg)](https://youtu.be/IulA34Cir4M)
+[![Click Below to Watch Demo Video](https://img.youtube.com/vi/IulA34Cir4M/maxresdefault.jpg)](https://youtu.be/IulA34Cir4M)
 
