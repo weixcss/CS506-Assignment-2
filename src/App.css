@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #2c3e50;
+}
+
+label {
+  display: block;
+  margin: 10px 0;
+}
+
+input, select {
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
+button {
+  margin: 10px 0;
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  cursor: pointer;
+  width: 200px;
+}
+
+button:disabled {
+  background-color: #95a5a6;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Optional: to center the buttons horizontally */
+}
+
