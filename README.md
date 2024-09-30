@@ -2,5 +2,5 @@
 
 ## Demo Video
 
-[Click here to watch the demo video](https://github.com/weixcss/CS506-Assignment-2/blob/main/demo.mov)
+[![Demo Video](https://img.youtube.com/vi/IulA34Cir4M/maxresdefault.jpg)](https://youtu.be/IulA34Cir4M)
 
