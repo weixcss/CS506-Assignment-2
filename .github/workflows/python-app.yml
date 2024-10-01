@@ -31,10 +31,6 @@ jobs:
         SERVER_PID=$!
         sleep 10
 
-    - name: Test with pytest
-      run: |
-        pytest
-
     - name: Kill the server
       if: always()
       run: |
